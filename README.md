@@ -38,6 +38,7 @@ Thanks goes out to [vsouza](https://github.com/vsouza) for the inspiration of hi
 	* [CouchDB](#couchdb)
 	* [Redis](#redis)
 	* [FileMaker](#filemaker)
+	* [SSDB](#ssdb)
 * [ORM](#orm)
 * [Web Server Connectivity](#web-server-connectivity)
 	* [HTTP](#http-libraries)
