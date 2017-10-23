@@ -239,6 +239,10 @@ Server Side Swift frameworks are projects that provide an infrastructure with wh
 
 * [Perfect Filemaker connector](https://github.com/PerfectlySoft/Perfect-FileMaker) - A stand-alone Swift wrapper around the FileMaker XML Web publishing interface.
 
+### SSDB
+
+* [SwiftSSDB](https://github.com/kirilltitov/SwiftSSDB) - SSDB client in (pure) Swift.
+
 ## ORM
 
 * [Fluent](https://github.com/vapor/fluent) (Vapor) - Swift models, relationships, and querying for NoSQL and SQL databases.
